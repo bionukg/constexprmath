@@ -1,2 +1,4 @@
 # constexprmath
-a math lib of constexpr val/支持constexpr的数学库
+a math lib of constexpr
+
+支持constexpr的数学库
